@@ -52,6 +52,11 @@
       <Name>dynSysOpsCustService</Name>
       <Link>Classes\dynSysOpsCustService</Link>
     </Content>
+    <Content Include="AxClass\dynSysOpsCustUIBuilder">
+      <SubType>Content</SubType>
+      <Name>dynSysOpsCustUIBuilder</Name>
+      <Link>Classes\dynSysOpsCustUIBuilder</Link>
+    </Content>
     <Content Include="AxEdt\Invoice">
       <SubType>Content</SubType>
       <Name>Invoice</Name>
